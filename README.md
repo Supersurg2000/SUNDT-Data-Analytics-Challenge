@@ -19,8 +19,6 @@ Focusing on key business metrics, such as revenue and margins.
 Ensuring the report communicates insights clearly, without needing extra explanations.
 Executive Presentation:
 
-Preparing a concise presentation aimed at business leaders unfamiliar with the dataset.
-Using embedded Power BI reports and PowerPoint slides to enhance the delivery.
 🎯 Purpose of This Submission
 The uploaded PBIX file showcases:
 
