@@ -17,7 +17,6 @@ Data Visualization:
 Designing creative, interactive visuals to tell a compelling data story.
 Focusing on key business metrics, such as revenue and margins.
 Ensuring the report communicates insights clearly, without needing extra explanations.
-Executive Presentation:
 
 🎯 Purpose of This Submission
 The uploaded PBIX file showcases:
